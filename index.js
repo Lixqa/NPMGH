@@ -1,1 +1,1 @@
-console.log("Test Package3");
+console.log("Test Package$");
