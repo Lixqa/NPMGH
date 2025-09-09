@@ -1,4 +1,4 @@
-console.log("Test Package some change234234324");
+console.log("Hello World");
 
 //commit changes
 //npm version ...
